@@ -1,0 +1,11 @@
+[4mRunning "jshint:files" (jshint) task[24m
+[32m>> [39m1 file lint free.
+
+[4mRunning "simplemocha:all" (simplemocha) task[24m
+1..1
+ok 1 Array indexOf() should return -1 when the value is not present
+# tests 1
+# pass 1
+# fail 0
+
+[32mDone, without errors.[39m
